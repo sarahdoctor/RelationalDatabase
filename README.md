@@ -1,5 +1,5 @@
 
-This project achieves the following: 
+This project uses PostgeSQL and Python to achieve the following: 
 - Creates a relational database containing at least three tables
 - Populates the database using the INSERT command
 - Creates integrity constraints on the tables created
